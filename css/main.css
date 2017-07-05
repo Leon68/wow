@@ -87,6 +87,7 @@ main ul li {
 main ul li a{
         top: 0px;
 }
+/*为transition指明初始状态否则transition不生效  */
 
 main ul li a p {
 	text-align: center;
