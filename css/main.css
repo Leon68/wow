@@ -79,6 +79,11 @@ main ul {
 main ul li {
 	width: 24%; 
 }
+
+main ul li a{
+        top: 0px;
+}
+
 main ul li a p {
 	text-align: center;
 	font-size: 20px;
