@@ -47,9 +47,13 @@ nav ul li {
 	height: 60px;
 	background-color: #493535;
 	line-height: 60px;
-	/* border: .5px solid #ccc; */
+	border: .5px solid #ccc;
 
 	/* 边框怎么那么细 */
+}
+
+nav ul li+li {
+	border-left: none;
 }
 nav ul li a {
 	color: #FFC812;
